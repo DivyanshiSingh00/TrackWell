@@ -389,7 +389,7 @@ int main()
 	cout<<"*                           *****                            *"<<endl;
 	cout<<"*                            ***                             *"<<endl;
 	cout<<"*                             *                              *"<<endl;
-	cout<<"***************** WELCOME  TO  FIT - WIT *********************"<<endl;
+	cout<<"***************** WELCOME  TO  TrackWell *********************"<<endl;
 	cout<<"*                             *                              *"<<endl;
 	cout<<"*                            ***                             *"<<endl;
 	cout<<"*                           *****                            *"<<endl;
